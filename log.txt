@@ -1,0 +1,18 @@
+UserID: 7567112401 | Time: 2025-01-29 15:47:35.486321 | Command: /bgmi | Target: 120.28.37.4 | Port: 20008 | Time: 110
+Username: @crazy_hacker404
+Target: 120.28.37.4
+Port: 20008
+Time: 110
+
+UserID: 7567112401 | Time: 2025-01-30 18:38:57.492608 | Command: /bgmi | Target: 52.172.250.92 | Port: 20002 | Time: 120
+Username: @crazy_hacker404
+Target: 52.172.250.92
+Port: 20002
+Time: 120
+
+UserID: 7567112401 | Time: 2025-02-03 14:21:38.448268 | Command: /bgmi | Target: 292.262.27.292 | Port: 20004 | Time: 20
+Username: @crazy_hacker404
+Target: 292.262.27.292
+Port: 20004
+Time: 20
+
